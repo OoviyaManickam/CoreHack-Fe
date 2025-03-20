@@ -25,7 +25,7 @@ export default function Home() {
           <hr className="border-gray-300 dark:border-neutral-700 mb-4" />
     <footer className="w-full bg-black text-white py-10">
   <div className="max-w-7xl mx-auto px-6 text-center">
-    <h3 className="text-xl md:text-2xl font-semibold">PiCore</h3>
+    <h3 className="text-xl md:text-2xl font-semibold">OnlyFarmers</h3>
     <p className="text-sm md:text-base text-neutral-400 mt-2">
     BTCFi - AI - ZKP - Compute
     </p>
@@ -41,7 +41,7 @@ export default function Home() {
       </a>
     </div>
     <p className="text-xs text-neutral-500 mt-2">
-      © {new Date().getFullYear()} SheFunded. All rights reserved.
+      © {new Date().getFullYear()} OnlyFarmers. All rights reserved.
     </p>
   </div>
 </footer>
